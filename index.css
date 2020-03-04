@@ -1,0 +1,101 @@
+body{
+    background-image:url('img.jpg');
+    background-size: 1400px;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    
+    }
+h1{
+    letter-spacing: 10px;;
+    text-align: center;
+    vertical-align: middle ;padding: 18px;margin: 0px;
+    color: grey;
+  }
+  h2{
+      text-align: center;
+      font-weight: 200;
+      color: blue;
+  }
+  p{   
+      color: black; 
+    font-size: 30px;
+    }
+  #banner1 { 
+    display:block;
+}
+#menu { 
+
+    width: 100pc;
+    height: 110px;
+    position:relative;
+}
+#menu ul { 
+    float: left;
+    left: 50pc;
+    padding-top: 15px;
+    margin-left: -60px;
+    position: relative;
+}
+#menu ul li{ 
+    float: left;
+    list-style-type: none;
+    position: relative;
+    left: -50pc;
+    margin-left: 20px;
+
+}
+#menu ul li a { 
+    font-size: 30px;
+    text-decoration: underline;
+    color: beige;
+    display: inline-block;
+    background-size: 100px;
+    height: 30px;
+    width: 225px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#menu ul li a:hover { 
+    color: black;
+    background-color: white;
+}
+#banner2 { 
+    display: block;
+        }
+
+#body1{
+    background-image: url("img1.jpg");
+    background-size: 1400px;
+    color: white;
+    margin: 0px;
+    padding: 0px
+}
+#body2{
+    background-image: url("img2.jpg");
+    background-size: 1400px;
+    color: white;
+    margin: 0px;
+    padding: 0px
+}
+#body3{
+    background-image: url("img3.jpg");
+    background-size: 1400px;
+    color: white;
+    margin: 0px;
+    padding: 0px
+}
+#body4{
+    background-image: url("img4.jpg");
+    background-size: 1400px;
+    color: white;
+    margin: 0px;
+    padding: 0px
+}
+#p2{
+    color: white;
+}
+#p3{
+    color: white;
+}
